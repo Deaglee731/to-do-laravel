@@ -10,101 +10,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2878479b-fdfa-4a20-82d9-36ce13435f08" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/framework.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composer.phar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/.env.example" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/.styleci.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/app/Console/Kernel.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/app/Exceptions/Handler.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/app/Http/Controllers/Controller.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/app/Http/Kernel.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/app/Http/Middleware/Authenticate.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/app/Http/Middleware/EncryptCookies.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/app/Http/Middleware/PreventRequestsDuringMaintenance.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/app/Http/Middleware/RedirectIfAuthenticated.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/app/Http/Middleware/TrimStrings.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/app/Http/Middleware/TrustHosts.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/app/Http/Middleware/TrustProxies.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/app/Http/Middleware/VerifyCsrfToken.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/app/Models/Task.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/app/Models/User.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/app/Providers/AppServiceProvider.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/app/Providers/AuthServiceProvider.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/app/Providers/BroadcastServiceProvider.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/app/Providers/EventServiceProvider.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/app/Providers/RouteServiceProvider.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/artisan" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/bootstrap/app.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/bootstrap/cache/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/composer.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/config/app.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/config/auth.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/config/broadcasting.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/config/cache.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/config/cors.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/config/database.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/config/filesystems.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/config/hashing.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/config/logging.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/config/mail.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/config/queue.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/config/services.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/config/session.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/config/view.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/database/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/database/factories/UserFactory.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/database/migrations/2014_10_12_100000_create_password_resets_table.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/database/migrations/2019_08_19_000000_create_failed_jobs_table.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/database/migrations/2020_12_06_125243_create_tasks_table.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/database/seeders/DatabaseSeeder.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/phpunit.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/public/.htaccess" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/public/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/public/web.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/resources/css/app.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/resources/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/resources/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/resources/lang/en/auth.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/resources/lang/en/pagination.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/resources/lang/en/passwords.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/resources/lang/en/validation.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/resources/views/common/errors.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/resources/views/layouts/app.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/resources/views/tasks.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/routes/api.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/routes/channels.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/routes/console.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/routes/web.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/server.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/storage/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/storage/app/public/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/storage/framework/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/storage/framework/cache/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/storage/framework/cache/data/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/storage/framework/sessions/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/storage/framework/testing/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/storage/framework/views/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/storage/logs/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/tests/CreatesApplication.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/tests/Feature/ExampleTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/tests/TestCase.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/tests/Unit/ExampleTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasklist/webpack.mix.js" afterDir="false" />
+    <list default="true" id="2878479b-fdfa-4a20-82d9-36ce13435f08" name="Default Changelist" comment="test">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -265,8 +172,16 @@
       <option name="presentableId" value="Default" />
       <updated>1607258000375</updated>
       <workItem from="1607258001508" duration="8639000" />
-      <workItem from="1607339826374" duration="1183000" />
+      <workItem from="1607339826374" duration="1824000" />
     </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1607341148643</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607341148643</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -283,11 +198,15 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="2660" y="261" key="FileChooserDialogImpl" timestamp="1607340654125">
+    <state x="2660" y="261" key="FileChooserDialogImpl" timestamp="1607341313054">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2660" y="261" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1607340654125" />
+    <state x="2660" y="261" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1607341313054" />
     <state x="2757" y="418" key="Github.ShareDialog" timestamp="1607340252381">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
